@@ -7,7 +7,7 @@
 
 본 자료는 단순 정보 제공을 목적으로 작성되었으며, 투자 권유, 재무 자문, 또는 특정 기업에 대한 공식 평가를 목적으로 하지 않습니다. 본 자료에 포함된 모델과 분석 결과, 추정치는 작성 시점의 가정을 바탕으로 한 것으로 실제 결과와 다를 수 있습니다. 제3자가 본 자료를 작성자의 동의 없이 무단으로 인용·배포하거나 상업적 목적, 투자 판단, 허위 사실 유포 등에 활용하여 발생하는 모든 직·간접적 손해와 법적 분쟁에 대해 작성자는 어떠한 책임도 지지 않음을 명시합니다.
 
-============================================================================================
+
 • Purpose: This analysis is a non-commercial project conducted for academic and career portfolio purposes.
 
 • Official data: Based on the IR earnings briefing and financial statements disclosed externally by Bandai Namco Holdings.
